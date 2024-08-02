@@ -10,7 +10,7 @@ terraform {
     organization = "TCS_ajaykumar91"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "my_ws_terraform"
     }
   }
 }
